@@ -22,3 +22,5 @@ _Add screenshots or GIFs here to showcase gameplay._
    ```bash
    git clone https://github.com/seshathri044/Territory-Battle-Game-flutter.git
    cd Territory-Battle-Game-flutter
+2.Fetch dependencies:
+flutter pub get
