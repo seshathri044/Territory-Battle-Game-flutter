@@ -40,13 +40,7 @@ Local multiplayer: Two players share the same device.
 Settings: Adjust map size, turn timer, and difficulty from lib/utils/settings.dart.
 
 🧩 Code Overview
-lib/main.dart – Entry point and game setup.
-
-lib/game/ – Core game logic and state management.
-
-lib/widgets/ – UI components (menus, buttons, HUD).
-
-lib/utils/ – Utility classes, constants, and helpers.
+lib/main.dart – the whole Game is in the Single File
 
 🤝 Contributing
 Fork this repo and create a branch (e.g. feature/new-mode).
