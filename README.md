@@ -1,7 +1,7 @@
 # Territory Battle Game (Flutter)
 
-A turn-based territory battle game built using Flutter and the Flame game engine.
-
+A turn-based territory battle game built using Flutter.
+![Git Example](images/git1.png)
 ## 🧭 Features
 - Turn-based strategy gameplay
 - Multiple game modes (e.g., single-player, local multiplayer)
