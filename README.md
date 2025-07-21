@@ -30,19 +30,21 @@ flutter pub get
  ```bash
 flutter run
  ```
-For web: flutter run -d chrome
-
-⚙️ Usage
+For web:
+ ```bash
+flutter run -d chrome
+ ```
+# ⚙️ Usage
 Single-player: Play against the AI.
 
 Local multiplayer: Two players share the same device.
 
 Settings: Adjust map size, turn timer, and difficulty from lib/utils/settings.dart.
 
-🧩 Code Overview
+#🧩 Code Overview
 lib/main.dart – the whole Game is in the Single File
 
-🤝 Contributing
+#🤝 Contributing
 Fork this repo and create a branch (e.g. feature/new-mode).
 
 Make changes and ensure everything runs correctly.
@@ -51,7 +53,7 @@ Open a Pull Request explaining your changes.
 
 Review and merge when approved.
 
-🎫 Issues & Feedback
+#🎫 Issues & Feedback
 Feel free to open issues for bugs or feature suggestions. Happy to improve!
 
 
