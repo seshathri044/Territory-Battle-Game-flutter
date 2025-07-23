@@ -1,10 +1,6 @@
 # Territory Battle Game (Flutter)
 
 A turn-based territory battle game built using Flutter.
-<img width="1920" height="1020" alt="git1" src="https://github.com/user-attachments/assets/2687db56-8e5c-444a-9efd-914069420784" />
-<img width="1920" height="1020" alt="git2" src="https://github.com/user-attachments/assets/0dc84713-91c7-45a5-a602-eacde48b0188" />
-<img width="1920" height="1020" alt="git3" src="https://github.com/user-attachments/assets/a0490fcb-75b3-43a9-8192-b288a191dbac" />
-
 ## 🧭 Features
 - Turn-based strategy gameplay
 - Multiple game modes (e.g., single-player, local multiplayer)
@@ -12,12 +8,15 @@ A turn-based territory battle game built using Flutter.
 - Configurable map sizes and difficulty levels
 
 ## 🎯 Demo / Screenshots
-_Add screenshots or GIFs here to showcase gameplay._
+
+<img width="1920" height="1020" alt="git1" src="https://github.com/user-attachments/assets/2687db56-8e5c-444a-9efd-914069420784" />
+<img width="1920" height="1020" alt="git2" src="https://github.com/user-attachments/assets/0dc84713-91c7-45a5-a602-eacde48b0188" />
+<img width="1920" height="1020" alt="git3" src="https://github.com/user-attachments/assets/a0490fcb-75b3-43a9-8192-b288a191dbac" />
+
 
 ## 🔧 Requirements
 - Flutter SDK (>= 2.x)
 - Dart SDK (>= 2.x)
-- Flame, provider, and other dependencies (see `pubspec.yaml`)
 - Compatible with Android, iOS, and web platforms
 
 ## 🚀 Installation & Setup
