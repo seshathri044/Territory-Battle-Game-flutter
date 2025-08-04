@@ -928,5 +928,4 @@ class _ResultPageState extends State<ResultPage> with TickerProviderStateMixin {
         ),
       ),
     );
-  }
-}
+  }}
